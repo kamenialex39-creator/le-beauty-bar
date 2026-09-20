@@ -20,3 +20,5 @@ img{display:block;width:100%;height:100%;object-fit:cover}.nav{height:72px;backg
 .featured-offer{box-shadow:0 8px 30px rgba(56,39,29,.06)}
 
 .social-link{color:#fff;text-decoration:none}.social-link:hover{text-decoration:underline}
+
+.zairo-credit{color:#d8c9bd;text-decoration:none;transition:color .2s ease}.zairo-credit span{color:#e9cbb5}.zairo-credit:hover{color:#fff}.zairo-credit:hover span{text-decoration:underline}
